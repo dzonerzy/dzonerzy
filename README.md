@@ -21,6 +21,7 @@
                                    / / / .../|  |\... \ \ \    _[__]   [__]_
                                   / / /       \/       \ \ \  [____>   <____]
 ```
+
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; inset: 0; opacity: 100%; background-size: 100% 100%;]{x0000}$}
-``
+```
