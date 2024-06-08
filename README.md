@@ -23,5 +23,5 @@
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; inset: 0; opacity: 100%; background-size: 100% 100%; content:'Hello World']{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; inset: 0; opacity: 10%; background-size: 100% 100%; background-color:purple;]{x0000}$}
 ```
